@@ -1,28 +1,74 @@
-<h1 align="center">Hi 👋, I'm Mohamed Awaad</h1>
-<h3 align="center">Software Engineer in Test</h3>
+# Hi there, I'm Mohamed Awaad! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaad007&label=Profile%20views&color=0e75b6&style=flat" alt="awaad007" /> </p>
+## 🚀 About Me
+I'm a passionate **Software Testing Engineer** with 5+ years of experience specializing in **automation** and **manual testing** for **mobile** and **web applications**. I thrive on ensuring software meets the highest quality standards and exceeds stakeholder expectations.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaad007" alt="awaad007" /></a> </p>
+---
 
-- 🔭 I’m currently working on **EcommerceAutomationFramework**
+## 🛠️ Technical Skills
 
-- 🌱 I’m currently learning **RestAssured, Appuim Native and Playwrite**
+### Programming Languages:
+- **Java** (Proficient in Object-Oriented Programming)
+- Familiarity with **C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Awaad007](https://github.com/Awaad007)
+### Test Automation Tools & Frameworks:
+- **Selenium**
+- **Cucumber**
+- **Appium**
+- **SHAFT Engine**
+- **TestNG**
+- **JUnit**
 
-- 💬 Ask me about **### Test Automation Tools & Frameworks: - **Selenium** - **Cucumber** - **Appium** - **SHAFT Engine** - **TestNG** - **JUnit****
+### Continuous Integration/Delivery:
+- **Maven**
+- **GitHub**
+- Experience in building CI/CD pipelines
 
-- 📫 How to reach me **https://www.linkedin.com/in/mohamed-awaad/**
+### Other Tools:
+- **JIRA** (Task and defect tracking)
+- **Confluence** (Documentation)
+- **Postman** (API Testing)
+- **Datadog** (Monitoring & Logs Analysis)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-awaad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-awaad/" height="30" width="40" /></a>
-</p>
+### Testing Methodologies:
+- **BDD** using Gherkin
+- Performance and Regression Testing
+- System, Integration, and Acceptance Testing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### IDEs & Platforms:
+- **IntelliJ IDEA**
+- **Eclipse**
+- Familiarity with Agile (Scrum, Kanban) workflows
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaad007&show_icons=true&locale=en&layout=compact" alt="awaad007" /></p>
+### Certifications:
+- **ISTQB Foundation Level** (Certified Tester)
+- **ISTQB Agile Tester**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaad007&show_icons=true&locale=en" alt="awaad007" /></p>
+### Languages:
+- **Arabic** (Native)
+- **English** (Advanced)
+- **German** (B1)
+
+---
+
+## 🌟 What I Bring to the Table
+- Strong **problem-solving skills** with a sharp attention to detail.
+- Expertise in creating and managing **test cases**, **bug reports**, and **automation frameworks**.
+- Passion for mentoring and collaborating with teams to deliver high-quality software solutions.
+- Proven ability to adapt quickly to new tools, technologies, and challenges.
+
+---
+
+## 🌐 Let's Connect
+- **📧 Email**: [mohamed.awaad.saeed@outlook.com](mailto:mohamed.awaad.saeed@outlook.com)
+- **📍 Location**: Cairo, Egypt
+- **🌐 LinkedIn**: [linkedin.com/in/mohamed-awaad](#)
+
+---
+
+## 💻 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-awaad&show_icons=true&theme=radical)
+
+---
+
+Feel free to explore my repositories to learn more about my projects and contributions!
