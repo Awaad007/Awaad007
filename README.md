@@ -8,27 +8,27 @@ I'm a passionate **Software Testing Engineer** with 5+ years of experience speci
 ## 🛠️ Technical Skills
 
 ### Programming Languages:
-- **Java** (Proficient in Object-Oriented Programming)
+- - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) (Proficient in Object-Oriented Programming)
 - Familiarity with **C++**
 
 ### Test Automation Tools & Frameworks:
-- **Selenium**
-- **Cucumber**
-- **Appium**
-- **SHAFT Engine**
-- **TestNG**
-- **JUnit**
+- - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+- - ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+- - ![Appium](https://img.shields.io/badge/Appium-6E46A3?style=for-the-badge&logo=appium&logoColor=white)
+- - ![SHAFT Engine](https://img.shields.io/badge/SHAFT_Engine-000000?style=for-the-badge&logo=shaft&logoColor=white)
+- - ![TestNG](https://img.shields.io/badge/TestNG-FF8300?style=for-the-badge&logo=testng&logoColor=white)
+- - ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### Continuous Integration/Delivery:
-- **Maven**
+- - ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 - **GitHub**
 - Experience in building CI/CD pipelines
 
 ### Other Tools:
 - **JIRA** (Task and defect tracking)
 - **Confluence** (Documentation)
-- **Postman** (API Testing)
-- **Datadog** (Monitoring & Logs Analysis)
+- - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) (API Testing)
+- - ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) (Monitoring & Logs Analysis)
 
 ### Testing Methodologies:
 - **BDD** using Gherkin
@@ -36,12 +36,12 @@ I'm a passionate **Software Testing Engineer** with 5+ years of experience speci
 - System, Integration, and Acceptance Testing
 
 ### IDEs & Platforms:
-- **IntelliJ IDEA**
+- - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 - **Eclipse**
 - Familiarity with Agile (Scrum, Kanban) workflows
 
 ### Certifications:
-- **ISTQB Foundation Level** (Certified Tester)
+- - ![ISTQB](https://img.shields.io/badge/ISTQB-CB0736?style=for-the-badge&logo=istqb&logoColor=white) Foundation Level (Certified Tester) (Certified Tester)
 - **ISTQB Agile Tester**
 
 ### Languages:
