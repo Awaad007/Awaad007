@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **RestAssured, Appuim Native and Playwrite**
 - 👨‍💻 All of my projects are available at [https://github.com/Awaad007](https://github.com/Awaad007)
 - 💬 Ask me about **### Test Automation Tools & Frameworks: - **Selenium** - **Cucumber** - **Appium** - **SHAFT Engine** - **TestNG** - **JUnit****
-- 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-awaad/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
