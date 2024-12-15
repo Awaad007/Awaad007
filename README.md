@@ -3,9 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaad007&label=Profile%20views&color=0e75b6&style=flat" alt="awaad007" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaad007" alt="awaad007" /></a> </p>
 - 🔭 I’m currently working on **EcommerceAutomationFramework**
+
 - 🌱 I’m currently learning **RestAssured, Appuim Native and Playwrite**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/Awaad007](https://github.com/Awaad007)
+- 
 - 💬 Ask me about **### Test Automation Tools & Frameworks: - **Selenium** - **Cucumber** - **Appium** - **SHAFT Engine** - **TestNG** - **JUnit****
+- 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamed-awaad/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
